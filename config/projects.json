@@ -58,7 +58,7 @@
     "dashedName": "build-a-web-server",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 31,
     "runTestsOnWatch": true,
     "seedEveryLesson": true,
     "isResetEnabled": false,
