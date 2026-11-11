@@ -1,0 +1,2 @@
+Hello, freeCodeCamp!
+Welcome to your session

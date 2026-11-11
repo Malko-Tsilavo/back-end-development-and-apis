@@ -19,7 +19,7 @@
     "learn-nodejs-repl": true,
     "build-a-case-converter": true,
     "build-a-prime-number-checker-module": true,
-    "build-a-file-processor": true,
+    "build-a-file-processor": false,
     "build-a-family-movie-watchlist-api": true,
     "build-a-random-joke-app": true,
     "build-a-personal-profile-app": true,
@@ -29,7 +29,7 @@
     "build-a-bank-api": true,
     "build-a-resource-monitor": true,
     "build-a-chat-app": true,
-    "build-jwt-protected-routes": false
+    "build-jwt-protected-routes": true
   },
   "chat.disableAIFeatures": true,
   "files.autoSave": "off",
