@@ -24,14 +24,15 @@
     "isResetEnabled": false,
     "blockingTests": null,
     "breakOnFailure": null,
-    "numberOfLessons": 30
+    "numberOfLessons": 30,
+    "completedDate": 1794403553511
   },
   {
     "id": 2,
     "dashedName": "build-a-case-converter",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 3,
     "runTestsOnWatch": true,
     "seedEveryLesson": false,
     "isResetEnabled": false,
